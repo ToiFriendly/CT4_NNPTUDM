@@ -24,7 +24,8 @@
     {
       "title": "hgeheeh",
       "views": "100",
-      "id": "5"
+      "id": "5",
+      "isDeleted": true
     },
     {
       "id": "7",
@@ -39,7 +40,14 @@
     {
       "id": "6",
       "title": "h50",
-      "views": "999"
+      "views": "999",
+      "isDeleted": true
+    },
+    {
+      "id": "9",
+      "title": "num",
+      "views": "null",
+      "isDeleted": false
     }
   ],
   "comments": [
@@ -52,6 +60,16 @@
       "id": "2",
       "text": "another comment about post 1",
       "postId": "1"
+    },
+    {
+      "id": "22f1",
+      "text": "hi",
+      "postId": "1"
+    },
+    {
+      "id": "8506",
+      "text": "a",
+      "postId": "6"
     }
   ],
   "profile": {
